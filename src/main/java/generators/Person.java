@@ -1,9 +1,9 @@
-package generators;
+package main.java.generators;
 
-import printables.PrintableShape;
-import utils.GeometricShapeColor;
-import utils.GeometricShapeFactory;
-import utils.GeometricShapeType;
+import main.java.printables.PrintableShape;
+import main.java.utils.GeometricShapeColor;
+import main.java.utils.GeometricShapeFactory;
+import main.java.utils.GeometricShapeType;
 
 import java.util.Collection;
 import java.util.Random;

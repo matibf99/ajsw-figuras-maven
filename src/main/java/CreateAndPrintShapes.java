@@ -1,3 +1,5 @@
+package main.java;
+
 import printables.PrintableShape;
 import generators.Person;
 import printers.Printer;
