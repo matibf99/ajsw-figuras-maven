@@ -1,6 +1,6 @@
-package utils;
+package main.java.utils;
 
-import shapes.*;
+import main.java.shapes.*;
 
 import java.util.Random;
 

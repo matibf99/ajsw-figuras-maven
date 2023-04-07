@@ -1,6 +1,6 @@
-package shapes;
+package main.java.shapes;
 
-import utils.GeometricShapeType;
+import main.java.utils.GeometricShapeType;
 
 public class Rectangle extends GeometricShape {
     private double width;
