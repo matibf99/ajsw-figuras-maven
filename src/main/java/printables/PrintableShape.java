@@ -1,6 +1,6 @@
-package main.java.printables;
+package printables;
 
-import main.java.shapes.GeometricShape;
+import shapes.GeometricShape;
 
 public class PrintableShape {
     private GeometricShape shape;

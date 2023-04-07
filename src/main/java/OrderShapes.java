@@ -1,6 +1,4 @@
-package main.java;
-
-import main.java.shapes.*;
+import shapes.*;
 
 import java.util.Arrays;
 import java.util.List;
