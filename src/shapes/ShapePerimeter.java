@@ -1,4 +1,4 @@
-package shape;
+package shapes;
 
 public interface ShapePerimeter {
     double perimeter();

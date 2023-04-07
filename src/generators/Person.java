@@ -1,5 +1,6 @@
-package printer;
+package generators;
 
+import printables.PrintableShape;
 import utils.GeometricShapeColor;
 import utils.GeometricShapeFactory;
 import utils.GeometricShapeType;

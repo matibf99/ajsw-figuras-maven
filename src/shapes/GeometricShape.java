@@ -1,4 +1,4 @@
-package shape;
+package shapes;
 
 public abstract class GeometricShape implements ShapePerimeter, ShapeArea {
     protected String name;

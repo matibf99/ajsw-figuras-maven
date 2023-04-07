@@ -1,4 +1,6 @@
-package printer;
+package printers;
+
+import printables.PrintableShape;
 
 import java.util.Collection;
 import java.util.Iterator;

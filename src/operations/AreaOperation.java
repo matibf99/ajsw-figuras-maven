@@ -1,6 +1,6 @@
-package operation;
+package operations;
 
-import shape.GeometricShape;
+import shapes.GeometricShape;
 
 import java.util.List;
 

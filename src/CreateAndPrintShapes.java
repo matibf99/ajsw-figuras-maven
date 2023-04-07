@@ -1,6 +1,6 @@
-import printer.PrintableShape;
-import printer.Person;
-import printer.Printer;
+import printables.PrintableShape;
+import generators.Person;
+import printers.Printer;
 import utils.GeometricShapeType;
 
 import java.util.ArrayList;

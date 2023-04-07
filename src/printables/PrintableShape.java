@@ -1,6 +1,6 @@
-package printer;
+package printables;
 
-import shape.GeometricShape;
+import shapes.GeometricShape;
 
 public class PrintableShape {
     private GeometricShape shape;
