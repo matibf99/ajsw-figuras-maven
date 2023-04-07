@@ -1,7 +1,5 @@
-package main.java;
-
-import printables.PrintableShape;
 import generators.Person;
+import printables.PrintableShape;
 import printers.Printer;
 import utils.GeometricShapeType;
 
