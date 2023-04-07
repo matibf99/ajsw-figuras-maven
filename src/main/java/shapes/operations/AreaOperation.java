@@ -1,4 +1,4 @@
-package main.java.operations;
+package shapes.operations;
 
 import main.java.shapes.GeometricShape;
 
